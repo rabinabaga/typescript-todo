@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": "1", "title": "a title", "status": "incomplete" },
+    { "id": "2", "title": "another title", "status": "incomplete" }
+  ]
+  
+}
